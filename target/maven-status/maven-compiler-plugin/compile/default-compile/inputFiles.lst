@@ -1,3 +1,6 @@
 D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\config\BookApplication.java
 D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\resource\v1\BookResource.java
+D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\resource\v3\BookResource.java
+D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\resource\v2\BookResource.java
+D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\util\DBUtil.java
 D:\PRJ301\bookstore\src\main\java\org\thovpp\bookstore\dto\Book.java

@@ -1,3 +1,7 @@
+org\thovpp\bookstore\resource\v3\BookResource.class
 org\thovpp\bookstore\config\BookApplication.class
-org\thovpp\bookstore\resource\v1\BookResource.class
+org\thovpp\bookstore\util\DBUtil.class
 org\thovpp\bookstore\dto\Book.class
+org\thovpp\bookstore\resource\v1\BookResource.class
+org\thovpp\bookstore\resource\v2\BookResource.class
+org\thovpp\bookstore\dao\BookDAO.class
